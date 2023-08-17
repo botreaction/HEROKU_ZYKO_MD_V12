@@ -1,7 +1,7 @@
 {
   "name": "zykov12",
   "description": "s",
-  "repository": "https://github.com/botreaction/ZYKO_BOT_MD_2023",
+  "repository": "https://github.com/botreaction/HEROKU_ZYKO_MD_V12",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
