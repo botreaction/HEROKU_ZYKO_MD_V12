@@ -1,8 +1,8 @@
 {
   "name": "zykov12",
   "description": "s",
-  "repository": "https://telegra.ph/file/790df9b1d04d9c61864b6.jpg",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/botreaction/HEROKU_ZYKO_MD_V12.git",
+  "logo": "https://telegra.ph/file/790df9b1d04d9c61864b6.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
