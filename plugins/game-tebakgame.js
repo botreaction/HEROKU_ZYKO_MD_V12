@@ -10,7 +10,7 @@ let imgr = flaaa.getRandom()
         conn.reply(m.chat, 'Masih ada soal belum terjawab di chat ini', conn.tebakgame[id][0])
         throw false
     }
-    let src = await (await fetch('https://raw.githubusercontent.com/botreaction/HEROKU_ZYKO_MD_V12/master/tebakgame.json')).json()
+    let src = await (await fetch('https://raw.githubusercontent.com/botreaction/HEROKU_ZYKO_MD_V12/master/tebakgame.json?token=GHSAT0AAAAAACGUYVR47TDEIIWQL272ZR5EZHIY4AQ')).json()
     let json = src[Math.floor(Math.random() * src.length)]
   let caption = `*${command.toUpperCase()}*
 Logo apakah ini?
