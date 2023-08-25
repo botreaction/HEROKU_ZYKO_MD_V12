@@ -41,13 +41,13 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // if you don't have it, type "-" or leave it alone so there are credits :v
 
-global.sig = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
-global.sgh = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
-global.sgc = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
-global.sdc = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
+global.sig = 'https://chat.whatsapp.com/BK06NTpWTCsAkX8GhrJJBY'
+global.sgh = 'https://chat.whatsapp.com/BK06NTpWTCsAkX8GhrJJBY'
+global.sgc = 'https://chat.whatsapp.com/BK06NTpWTCsAkX8GhrJJBY'
+global.sdc = 'https://chat.whatsapp.com/BK06NTpWTCsAkX8GhrJJBY'
 global.snh = 'https://youtube.com/@ukosamasomoni1956'
-global.sfb = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
-global.syt = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
+global.sfb = 'https://chat.whatsapp.com/BK06NTpWTCsAkX8GhrJJBY'
+global.syt = 'https://chat.whatsapp.com/BK06NTpWTCsAkX8GhrJJBY'
 
 /*============== PAYMENT ==============*/
 global.pdana = '6289688206739'
