@@ -22,7 +22,7 @@ global.kontak2 = [
 [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'fahriadison12@gmail.com', true],
 ]
 let res = JSON.parse(readFileSync('./package.json'))
-global.v = `© ZYKOBOTZ MD V${res.version} (Public Botz)`
+global.v = `© Hen MD V${res.version} (Public Botz)`
 global.api = "Zyko"
 global.ucapan = ucapan()
 global.ephemeral = '86400'
@@ -37,7 +37,7 @@ mediaUrl: sgc,
 description: 'simple bot esm',
 previewType: "PHOTO",
 thumbnail: await (await fetch(pp)).buffer(),
-sourceUrl: "https://wa.me/6289688206739",
+sourceUrl: "https://chat.whatsapp.com/BK06NTpWTCsAkX8GhrJJBY",
 }
 }
 }
