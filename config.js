@@ -41,7 +41,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // if you don't have it, type "-" or leave it alone so there are credits :v
 
-global.sig = 'https://chat.whatsapp.com/BK06NTpWTCsAkX8GhrJJBY'
+global.sig = 'https://www.facebook.com/wily.kun.1'
 global.sgh = 'https://chat.whatsapp.com/BK06NTpWTCsAkX8GhrJJBY'
 global.sgc = 'https://chat.whatsapp.com/BK06NTpWTCsAkX8GhrJJBY'
 global.sdc = 'https://chat.whatsapp.com/BK06NTpWTCsAkX8GhrJJBY'
